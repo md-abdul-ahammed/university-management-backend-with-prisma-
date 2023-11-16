@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/.1e245022213d44324b740d567fa8deb015c19dad-audit.json",
+    "files": [
+        {
+            "date": 1699194920306,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-05-11-20-success.log",
+            "hash": "c9b82548600f7e15f5bd16b9fc8c631e8e9daee480fe0b7cc7251a39752743ad"
+        },
+        {
+            "date": 1699204897424,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-05-11-23-success.log",
+            "hash": "a6a14f709bd47646463c47cf047b94a565f44373a806c853dc71d4f37a4c8b8a"
+        },
+        {
+            "date": 1700069192183,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-15-11-23-success.log",
+            "hash": "17854b9b9f0da4fb6f4b7472e1d6c83386507d9bd54c5dd38fce4aab6af0c0ec"
+        },
+        {
+            "date": 1700071296003,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-16-11-00-success.log",
+            "hash": "2736150aec7a5430d62ce67cb1a19857158403b88ff0b8d1dd349ce9f594cf08"
+        },
+        {
+            "date": 1700074898130,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-16-11-01-success.log",
+            "hash": "b52e259c54ed06958fe9827235e391e24d9aaf32bb7a204a934f489c69ab8406"
+        },
+        {
+            "date": 1700139293115,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-16-11-18-success.log",
+            "hash": "3fdd349f41035a154d3300f32f2e22ec1cc14bdb0dd6d775789842fb7c82585d"
+        },
+        {
+            "date": 1700139704233,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-16-11-19-success.log",
+            "hash": "da3e9c34c9700acbca01bee29dbdafd8f2fe6002b48fd276efcf6591f94c8768"
+        },
+        {
+            "date": 1700152846701,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-16-11-22-success.log",
+            "hash": "8af03408af5f5feb67fa577ac887dddd12d341be89bdc6fece760ee4ab042b59"
+        },
+        {
+            "date": 1700154055990,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-16-11-23-success.log",
+            "hash": "11180bc03a47b30da98bda63ad2450a8eae8611afea39330d9648260566dbe06"
+        },
+        {
+            "date": 1700158906363,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/successes/phu-2023-17-11-00-success.log",
+            "hash": "679114ee6dd1f1739b4de596c1fd988135cb0d1450d85ad845764b071ee267b7"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/.5a1a2e1b0329f9e18e18c0c5d2af2f768bdeb6ea-audit.json",
+    "files": [
+        {
+            "date": 1699194920310,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-05-11-20-error.log",
+            "hash": "40cf6a3f26205392c39671df2e3b4198ac5f0089675936c9ce18f499175cb540"
+        },
+        {
+            "date": 1699204898072,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-05-11-23-error.log",
+            "hash": "caad20ff8d2c13d0dc227927838b2d5926851dd9e522e78498cbf8bcc1b7b9ba"
+        },
+        {
+            "date": 1700069192216,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-15-11-23-error.log",
+            "hash": "e09b0f3a5d9e19e01ef05c35405bedcc157ea2e08ebbac14301786d8e7b31cf6"
+        },
+        {
+            "date": 1700071296503,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-16-11-00-error.log",
+            "hash": "0cabafce890c58735c87e856cc857dc89d92cc617f1eb1cd7ffe80d89fb907ee"
+        },
+        {
+            "date": 1700074898577,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-16-11-01-error.log",
+            "hash": "6ea0bb553e5ecd12ed6ca8ddcb63353806196ec9649b03193489f5a199a4b8bf"
+        },
+        {
+            "date": 1700139293761,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-16-11-18-error.log",
+            "hash": "dc1bf8b9b3c134801012abf89edbb56b88157c06ca53353463f34687c24a5e6b"
+        },
+        {
+            "date": 1700139704237,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-16-11-19-error.log",
+            "hash": "bc6fee56d7208a05a407087d5096e758ed38e7c4f372b1490d8829846e7df95b"
+        },
+        {
+            "date": 1700152847160,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-16-11-22-error.log",
+            "hash": "edb12ea08f210f5292bc66bad8976f6313352572b922ecf24ab4cd9dacc68742"
+        },
+        {
+            "date": 1700154056337,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-16-11-23-error.log",
+            "hash": "d3cbd1fb2b671c50ebdf7d8e4b5b9e537e38e998f714598a22b7684d3b072088"
+        },
+        {
+            "date": 1700158906969,
+            "name": "/home/mdabdul/Projects/core-service-university-management/university-management-core-service-starter/logs/winston/errors/phu-2023-17-11-00-error.log",
+            "hash": "2d3fb7e2935560772637623a7e8fc75736147bf490908efb64bffad86426f282"
+        }
+    ],
+    "hashType": "sha256"
+}
